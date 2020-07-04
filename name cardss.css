@@ -1,0 +1,19 @@
+body {
+    font-family: sans-serif;
+background: linear-gradient(to top,orange 0%, red 100%)fixed;
+}
+div {
+    background-color: white;
+    text-align: center;
+    margin: 100px 300px;
+    padding:  10px;
+}
+img {
+    width: 120 px;
+    height: 120px;
+    border-radius: 50%;
+    border: 3px solid black;
+}
+hr {
+    width: 400px;
+}
